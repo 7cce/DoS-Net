@@ -1,0 +1,14 @@
+1- git clone:/URL
+2- cd Desktop
+3- ls
+4- cd DoS-Attack
+5- pip3 install -r requirements.txt
+6- ls
+7- python3 DoS.py
+-----------------
+  After Attacking 
+1- cd Desktop
+2- ls
+3- cd DoS-Attack
+4- ls
+5- python3 control.py
